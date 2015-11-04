@@ -1,2 +1,2 @@
 # GeneticRobot
-A robot for robocode with genetic movement.
+A robot to robocode with genetic movement.
